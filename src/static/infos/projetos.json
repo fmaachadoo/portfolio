@@ -1,0 +1,27 @@
+{   
+    "projetos" : [{
+        "name" : "Latym Language",
+        "link" : "https://github.com/fmaachadoo/Latym-language",
+        "img" : "../static/images/latym.jpeg",
+        "descricao" : "Uma linguagem de programação, Turing completa, baseada no latím; Feita como projeto final da matéria de Compiladores cursada na Universidade de Brasília (UNB). Usando o latím como base faz com que os códigos pareçam textos corridos do próprio latím, é algo divertido de se programar.",
+        "tecnologias" : ["Python", "Lark-Parser"],
+        "width": "34%"
+    }, 
+    {
+        "name" : "Recomendação de Matrículas",
+        "link" : "https://github.com/fmaachadoo/2019.2-Recomendacao-de-Matricula",
+        "img" : "../static/images/recomendacao.png",
+        "descricao" : "Uma extensão para Google Chrome feita para auxiliar os alunos da UNB que ultilizam o sistema do Matrícula Web para se matricular nas disciplinas; Feita para a matéria de Métodos De Desenvolvimento de Software cursada na Universidade de Brasília(UNB).",
+        "tecnologias" : ["Javascript", "Node.js", "Browserify", "ReactJS", "MaterialUI"],
+        "width": "33%"        
+    },
+    {
+        "name" : "Demo: Site English School",
+        "link" : "https://fmaachadoo.github.io/example-english-school/",
+        "img" : "../static/images/logo.png",
+        "descricao" : "Demonstração de site usando como tema fictício uma suposta escola de inglês.",
+        "tecnologias" : ["Typescript", "ReactJS", "MaterialUI"],
+        "width": "33%"
+    }]
+    
+}
