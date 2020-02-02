@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e7a6b420a4c4ce2b4e495cff4f1a0f2",
+    "revision": "232ce996134c77d91dc8568eb3116c8d",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.15c52e38.chunk.css"
   },
   {
-    "revision": "125e5dbbd17792519794",
+    "revision": "9676d53da4423b06f4ce",
     "url": "/portfolio/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.a68a9e22.chunk.js.LICENSE"
   },
   {
-    "revision": "125e5dbbd17792519794",
-    "url": "/portfolio/static/js/main.4f6cca30.chunk.js"
+    "revision": "9676d53da4423b06f4ce",
+    "url": "/portfolio/static/js/main.ac6b574a.chunk.js"
   },
   {
     "revision": "3372145aa467f5e49196",
     "url": "/portfolio/static/js/runtime-main.1dc4ceff.js"
   },
   {
-    "revision": "f167d0a202c454b8cdcc3d7b8febfe39",
-    "url": "/portfolio/static/media/filipe-machado.f167d0a2.jpeg"
+    "revision": "c5907d523a16afb1cc78b3d7c14b9b45",
+    "url": "/portfolio/static/media/filipe-machado.c5907d52.jpeg"
   },
   {
     "revision": "5cb7edfceb233100075dc9a1e12e8da3",
