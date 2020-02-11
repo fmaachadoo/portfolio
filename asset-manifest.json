@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/portfolio/static/js/main.3f4ac5a4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3f4ac5a4.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.193af425.chunk.css",
+    "main.js": "/portfolio/static/js/main.7852aedf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7852aedf.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.1dc4ceff.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.1dc4ceff.js.map",
     "static/css/2.15c52e38.chunk.css": "/portfolio/static/css/2.15c52e38.chunk.css",
-    "static/js/2.872a4bf1.chunk.js": "/portfolio/static/js/2.872a4bf1.chunk.js",
-    "static/js/2.872a4bf1.chunk.js.map": "/portfolio/static/js/2.872a4bf1.chunk.js.map",
+    "static/js/2.dbe379b9.chunk.js": "/portfolio/static/js/2.dbe379b9.chunk.js",
+    "static/js/2.dbe379b9.chunk.js.map": "/portfolio/static/js/2.dbe379b9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.0996a9e310e654d36481292d220c8153.js": "/portfolio/precache-manifest.0996a9e310e654d36481292d220c8153.js",
+    "precache-manifest.31aa62f38af3a40dc3d992f62579df09.js": "/portfolio/precache-manifest.31aa62f38af3a40dc3d992f62579df09.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.15c52e38.chunk.css.map": "/portfolio/static/css/2.15c52e38.chunk.css.map",
-    "static/css/main.27fd15f6.chunk.css.map": "/portfolio/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.872a4bf1.chunk.js.LICENSE": "/portfolio/static/js/2.872a4bf1.chunk.js.LICENSE",
+    "static/css/main.193af425.chunk.css.map": "/portfolio/static/css/main.193af425.chunk.css.map",
+    "static/js/2.dbe379b9.chunk.js.LICENSE": "/portfolio/static/js/2.dbe379b9.chunk.js.LICENSE",
     "static/media/filipe-machado.jpeg": "/portfolio/static/media/filipe-machado.c5907d52.jpeg",
     "static/media/latym.jpeg": "/portfolio/static/media/latym.b9760eca.jpeg",
     "static/media/recomendacao.png": "/portfolio/static/media/recomendacao.5a915395.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.1dc4ceff.js",
     "static/css/2.15c52e38.chunk.css",
-    "static/js/2.872a4bf1.chunk.js",
-    "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.3f4ac5a4.chunk.js"
+    "static/js/2.dbe379b9.chunk.js",
+    "static/css/main.193af425.chunk.css",
+    "static/js/main.7852aedf.chunk.js"
   ]
 }
