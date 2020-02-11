@@ -25,7 +25,7 @@ export default function Habilidades(){
         <div className={classes.root} >
             <Grid container justify='center'>    
                 <Grid item>    
-                    <Typography variant='h2' gutterBottom >
+                    <Typography variant='h2' gutterBottom color='primary' >
                         HABILIDADES
                     </Typography>
                 </Grid>

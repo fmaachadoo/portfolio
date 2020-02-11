@@ -5,8 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  
+  background: #210001; /* Old browsers */
+  background: -moz-linear-gradient(top, #210001 1%, #330101 46%, #210001 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #210001 1%,#330101 46%,#210001 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #210001 1%,#330101 46%,#210001 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#210001', endColorstr='#210001',GradientType=0 ); /* IE6-9 */
 
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

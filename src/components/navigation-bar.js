@@ -33,7 +33,7 @@ const useStyles = makeStyles (theme => ({
     },
     navbar: {
         minHeight: 80,
-        backgroundColor: '#2e1534',
+        backgroundColor: '#330101',
               
     }
 
